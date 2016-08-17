@@ -20,6 +20,7 @@ Next are the questions:
 
 5) Download the the gas excel file used for quizz 1 of Getting and Cleaning Data (https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FDATA.gov_NGAP.xlsx) and load the contractor table.
 
+
 6) Give the dimmensions and column names for each column.
 
 7) How many contractors are in Tulsa?
