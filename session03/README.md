@@ -20,7 +20,6 @@ Next are the questions:
 
 5) Download the the gas excel file used for quizz 1 of Getting and Cleaning Data (https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FDATA.gov_NGAP.xlsx) and load the contractor table.
 
-
 6) Give the dimmensions and column names for each column.
 
 7) How many contractors are in Tulsa?
@@ -36,4 +35,4 @@ BONUS QUESTIONS!!!!!
 
 11) Load the xml file from the getting and cleaning data quizz 1 (https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2Frestaurants.xml), and get the number of restaurants by police district (policedistrict). (3 extra point)
 
-12) The programming assignment for week 3 uses functions to obtain the best hospital by state, to rank all hospital by best or worst, and to rank hospital by state and outcome. Alter this functions to filter by a minimal number of cases (given as a new input for the formulas) for their analysis, and set the default to be 25. (5 extra points for each formula correctly modified)
+12) The programming assignment for week 3, in the R programming course, uses functions to obtain the best hospital by state, to rank all hospital by best or worst, and to rank hospital by state and outcome. Alter this functions to filter by a minimal number of cases (given as a new input for the formulas) for their analysis, and set the default to be 25. (5 extra points for each formula correctly modified)
