@@ -14,11 +14,12 @@ Next are the questions:
 
 2) create a vector with 10000 random normal values with a mean of 1 and a standard deviation of 0.
 
-3) Get the density of the probability distribution function for both vectors.
+3) Get the density of the probability distribution function for each vector.
 
 4) Plot the result from question 3, with it's corresponding vector.
 
-5) Download the the gas excel file used for quizz 1 of Getting and Cleaning Data (https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FDATA.gov_NGAP.xlsx) and load the contractos table.
+5) Download the the gas excel file used for quizz 1 of Getting and Cleaning Data (https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FDATA.gov_NGAP.xlsx) and load the contractor table.
+
 
 6) Give the dimmensions and column names for each column.
 
