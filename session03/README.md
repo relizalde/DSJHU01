@@ -2,7 +2,7 @@
 
 For this session we will mainly be downloading infromation from the web. For those without internet access don't worry as we'll use the files from the week1 quizz for getting and cleaning data.
 
-This week consists of 11 questions +2 optionals. Please note that for getting into the leaderboard, you only have to answer the first 11 questions.
+This week consists of 10 questions +2 optionals. Please note that for getting into the leaderboard, you only have to answer the first 11 questions.
 
 As in the previous session:
   These questions are to be submitted with a push to GitHub with the code used, and if applicable, the answer (output). The time of the push will be considered as the submit time, hence the winner will be whoever submitted the correct code/answer faster.
@@ -10,13 +10,13 @@ As in the previous session:
 
 Next are the questions:
 
-1) create a vector with 10000 random normal values with a mean of 15 and a standard deviation of 145 (seed at 1439).
+1) create a vector with 10000 random normal values with a mean of 15 and a standard deviation of 35 (seed at 1439).
 
 2) create a vector with 10000 random normal values with a mean of 1 and a standard deviation of 0.
 
-3) Get the density distribution function for both vectors.
+3) Get the density of the probability distribution function for both vectors.
 
-4) Do a simple plot for each function.
+4) Plot the result from question 3, with it's corresponding vector.
 
 5) Download the the gas excel file used for quizz 1 of Getting and Cleaning Data (https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FDATA.gov_NGAP.xlsx) and load the contractos table.
 
@@ -30,11 +30,9 @@ Next are the questions:
 
 10) What is the average age by gender.
 
-11) What is the serial number of the youngest and oldest person by gender.
-
 
 BONUS QUESTIONS!!!!!
 
-12) Load the xml file from the getting and cleaning data quizz 1 (https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2Frestaurants.xml), and get the number of restaurants by police district (policedistrict). (3 extra point)
+11) Load the xml file from the getting and cleaning data quizz 1 (https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2Frestaurants.xml), and get the number of restaurants by police district (policedistrict). (3 extra point)
 
-13) The programming assignment for week 3 uses functions to obtain the best hospital by state, to rank all hospital by best or worst, and to rank hospital by state and outcome. Alter this functions to filter by a minimal number of cases (given as a new input for the formulas) for their analysis, and set the default to be 25. (5 extra points for each formula correctly modified)
+12) The programming assignment for week 3 uses functions to obtain the best hospital by state, to rank all hospital by best or worst, and to rank hospital by state and outcome. Alter this functions to filter by a minimal number of cases (given as a new input for the formulas) for their analysis, and set the default to be 25. (5 extra points for each formula correctly modified)
