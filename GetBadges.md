@@ -14,6 +14,7 @@ It could take up to one day to see the updated information on GetBadges.
 
 ## How to update your fork repository?
 Took from [here](http://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
+
 1. Open your fork repository on GitHub.
 2. Click on `Pull Requests`.
 3. Click on `New Pull Request`. By default, GitHub will compare the original with your fork, and there shouldn't be nothing to compare if you didn't make any changes.
@@ -24,6 +25,7 @@ Took from [here](http://stackoverflow.com/questions/7244321/how-do-i-update-a-gi
 
 ## How to create a `Pull Request` to the original repository?
 After pushing your changes to your remote fork repository, you can continue with the following steps:
+
 1. Open your fork repository on GitHub.
 2. Click on `Pull Requests`.
 3. Click on `New Pull Request`.
